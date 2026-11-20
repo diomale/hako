@@ -1,0 +1,3 @@
+# HAKO has no third-party runtime dependencies in Milestone 2.
+# Target: Python 3.13.5 on Raspberry Pi OS 13 Trixie (armhf).
+# All imported modules are from the Python standard library.
